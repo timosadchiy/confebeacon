@@ -1,0 +1,41 @@
+{
+  "name": "confebeacon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timosadchiy/confebeacon.git"
+  },
+  "author": "Tim Osadchiy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timosadchiy/confebeacon/issues"
+  },
+  "homepage": "https://github.com/timosadchiy/confebeacon",
+  "devDependencies": {
+    "envify": "^3.4.1",
+    "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-material": "^1.1.1",
+    "angular-sanitize": "^1.5.8",
+    "angular-touch": "^1.5.8",
+    "angularjs-datepicker": "^2.1.6"
+  }
+}
