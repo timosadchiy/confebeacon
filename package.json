@@ -36,6 +36,7 @@
     "angular-material": "^1.1.1",
     "angular-sanitize": "^1.5.8",
     "angular-touch": "^1.5.8",
-    "angularjs-datepicker": "^2.1.6"
+    "angularjs-datepicker": "^2.1.6",
+    "bootstrap": "^3.3.7"
   }
 }

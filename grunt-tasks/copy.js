@@ -18,6 +18,12 @@ module.exports = function (grunt) {
             flatten: true,
             src: config.copyFontsFrom,
             dest: config.copyFontsTo
+        },
+        rsc: {
+            expand: true,
+            flatten: true,
+            src: config.copyFontsFrom,
+            dest: config.copyFontsTo
         }
     });
 };
